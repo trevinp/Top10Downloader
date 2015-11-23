@@ -23,7 +23,6 @@ public class MainActivity extends AppCompatActivity {
     private String mFileContents;
     private Button btnParse;
     private ListView listApps;
-// test
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
