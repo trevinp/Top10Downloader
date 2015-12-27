@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
     private Button btnParse;
     private ListView listApps;
     @Override
-    protected void onCreate(Bundle savedInstanceState) {
+    protected void onCreate(Bundle savedInstanceState) { //test
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         btnParse = (Button) findViewById(R.id.btnParse);
